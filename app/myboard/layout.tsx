@@ -6,11 +6,13 @@ export default function RootLayout({
     children: React.ReactNode
   }) {
     return (
-    <main className='flex'>
-        <div>
-          heyyy 
+      <main>
+        <div> 
+          <h1 className="m-2 text-3xl font-bold ">
+            MY BOARD
+          </h1>
         </div>
-        <div className='flex-1'>{children}</div>
+        <div>{children}</div>
       </main>
     )
   }

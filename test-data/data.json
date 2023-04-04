@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "name": "board 1",
+        "todo-number": 10
+    },
+    {
+        "id": 1,
+        "name": "my todos",
+        "todo-number": 3
+    }
+]
